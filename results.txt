@@ -1,0 +1,89 @@
+14/10
+Fabio, Casco, Baldo, Vikko, Samos
+Ferro, Corti, Diego, Malle, Jerry, Quisto
+
+28/10
+Fabio, Cangi, Andrea, Twaffite, Ferro
+Baldo, Quisto, Casco, Vikko, Samos
+
+29/11
+Cakun, Fabio, Casco, Ferro, Samos
+Quisto, Smoke, Amico_Casco, Malle, Baldo
+
+12/1
+Casco, Fra, Ricio, Jerry, Samos
+Fabio, Quisto, Ferro, Baldo, Vikko
+
+29/1
+Vezzu, Casco, Andrea, Fabio, Ferro
+Moa, Paolo, Pino, Quisto, Cangi
+
+20/4
+Casco, Fabio, Baldo, Moa, Corti
+Quisto, Cugi_Quisto, Ferro, Samos, Vikko
+
+15/6
+Fabio, Casco, Corti, Cangi, Ferro
+Malle, Quisto, Fra, Baldo, Samos
+
+4/8/23
+Fabio, Casco, Baldo, Samos, Cangi
+Quisto, Vikko, Corti, Ferro, Malle
+
+18/8/23
+Fabio, Pino, Fra, Corti, Ferro
+Quisto, Casco, Andrea, Baldo, Samos
+
+28/8/23
+Quisto, Dave, Malle, Milesi, Fabio
+Fra, Cangi, Baldo, Casco, Corti
+
+10/09/23
+Fabio, Casco, Corti, Cangi, Baldo
+Quisto, Dave, Milesi, Ferro, Vikko
+
+17/09/23
+Fabio, Quisto, Cangi, Baldo, Corti
+Casco, Vezzu, Ricio, Malle, Samos
+
+15/10/23
+Moa, Casco, Cangi, Samos, Ricio
+Quisto, Baldo, Corti, Malle, Fra
+
+
+22/10/23
+Thomas, Quisto, Baldo, Corti, Samos
+Fabio, Casco, Vezzu, Cangi, Dave
+
+17/12/23
+Thomas, Quisto, Baldo, Corti, Samos
+Fabio, Casco, Piana, Cangi, Fra
+
+07/01/24
+Fabio, Moa, Dave, Milesi, Corti
+Thomas, Quisto, Samos, Cangi, Anzio
+
+
+13/01/24
+Thomas, Quisto, Samos, Corti, Vikko
+Fabio, Casco, Cangi, Baldo, Dave
+
+28/01/24
+Fabio, Reca, Cangi, Dave, Anzio
+Longhi, Baldo, Quisto, Thomas, Samos
+
+18/02/24
+Fabio, Thomas, Zakka, Corti, Vikko
+Quisto, Samos, Dave, Prove, Casco
+
+03/03/24
+Thomas, Quisto, Prove, Cugi_Quisto, Baldo
+Fabio, Ale_Lazza, Dave, Cangi, Zakka
+
+07/04/24
+Thomas, Fabio, Paolo, Casco, Anzio
+Quisto, Reca, Samos, Prove, Longhi
+
+21/04/24
+Fabio, Reca, Quisto, Casco, Dave
+Andrea, Paolo, Thomas, Cangi, Anzio
